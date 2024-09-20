@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Projeto Melhores Compras 2" id="6E8B98DB-5762-CD0E-80F3-6E3CDBE64310" version="3.5">
+<createdBy>felipepaullelli</createdBy>
+<createdTime>2024-08-29 10:52:29 UTC</createdTime>
+<ownerDesignName>Projeto Melhores Compras 2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6E8B98DB-5762-CD0E-80F3-6E3CDBE64310</designId>
+</OSDM_Design>
